@@ -1,0 +1,17 @@
+div{
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 10%;
+
+    background-color: red;
+}
+
+input{
+    right: 0;
+    margin-top: 10px;
+    float: right;
+}
+
+br{
+    clear: both;
+}
